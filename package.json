@@ -1,0 +1,28 @@
+{
+  "name": "renovate-reproduction",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "@swc/core": "1.3.102",
+    "eslint-plugin-exos": "file:./eslint"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      ".git",
+      "node_modules"
+    ],
+    "watch": [
+      "src",
+      ".env"
+    ],
+    "exec": "yarn start",
+    "ext": "ts"
+  },
+  "lint-staged": {
+    "*.ts": "eslint --cache --fix",
+    "*.+(js|json|ts|vue|graphql|html|md)": "prettier --write"
+  },
+  "packageManager": "yarn@4.0.2"
+}
