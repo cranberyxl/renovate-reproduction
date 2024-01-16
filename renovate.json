@@ -1,14 +1,5 @@
 {
   "extends": ["config:base"],
-  "hostRules": [
-    {
-      "matchHost": "https://npm.pkg.github.com/",
-      "hostType": "npm",
-      "encrypted": {
-        "token": "redacted"
-      }
-    }
-  ],
   "npmrc": "@teamexos:registry=https://npm.pkg.github.com/",
   "schedule": ["every weekend"],
   "labels": ["dependencies"],
