@@ -26,8 +26,8 @@ __metadata:
 
 "eslint-plugin-exos@file:./eslint::locator=%40teamexos%2Fprince-backend%40workspace%3A.":
   version: 1.0.0
-  resolution: "eslint-plugin-exos@file:./eslint#./eslint::hash=ef1c99&locator=%40teamexos%2Fprince-backend%40workspace%3A."
-  checksum: 38cbf09d44d925756e9d691d49a8e138c5c33fb3de120d91dc6a4bd2ddf52206000eab69f1da3b234ab213dcd1d78889f1bc2d9383c3ef99158fd4786500c35d
+  resolution: "eslint-plugin-exos@file:./eslint#./eslint::hash=54d945&locator=%40teamexos%2Fprince-backend%40workspace%3A."
+  checksum: 94fc1376020bcd9a46ded02dc6d4aade96988fda15a82fa4964aed8aeeeee7d1f9318cdec12781f451cf16fb724ad6c3e7b7b76101a1f5533029e08d795c9b40
   languageName: node
   linkType: hard
 
