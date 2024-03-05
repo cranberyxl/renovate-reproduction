@@ -20,27 +20,27 @@ __metadata:
   resolution: "@types/node@npm:20.11.1"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 0b633e9f707167b4b61e472ddb93caca390714ef4f579d528eb5a8e4c621a5d267cc427dc5e01adc9a3ba87ec1e161a51d1bba716ae762c7a01648cbebab6bb5
+  checksum: 10/0b633e9f707167b4b61e472ddb93caca390714ef4f579d528eb5a8e4c621a5d267cc427dc5e01adc9a3ba87ec1e161a51d1bba716ae762c7a01648cbebab6bb5
   languageName: node
   linkType: hard
 
 "eslint-plugin-exos@file:./eslint::locator=%40teamexos%2Fprince-backend%40workspace%3A.":
   version: 1.0.0
-  resolution: "eslint-plugin-exos@file:./eslint#./eslint::hash=ef1c99&locator=%40teamexos%2Fprince-backend%40workspace%3A."
-  checksum: 38cbf09d44d925756e9d691d49a8e138c5c33fb3de120d91dc6a4bd2ddf52206000eab69f1da3b234ab213dcd1d78889f1bc2d9383c3ef99158fd4786500c35d
+  resolution: "eslint-plugin-exos@file:./eslint#./eslint::hash=54d945&locator=%40teamexos%2Fprince-backend%40workspace%3A."
+  checksum: 10/94fc1376020bcd9a46ded02dc6d4aade96988fda15a82fa4964aed8aeeeee7d1f9318cdec12781f451cf16fb724ad6c3e7b7b76101a1f5533029e08d795c9b40
   languageName: node
   linkType: hard
 
 "graphql@npm:16.8.1":
   version: 16.8.1
   resolution: "graphql@npm:16.8.1"
-  checksum: 7a09d3ec5f75061afe2bd2421a2d53cf37273d2ecaad8f34febea1f1ac205dfec2834aec3419fa0a10fcc9fb345863b2f893562fb07ea825da2ae82f6392893c
+  checksum: 10/7a09d3ec5f75061afe2bd2421a2d53cf37273d2ecaad8f34febea1f1ac205dfec2834aec3419fa0a10fcc9fb345863b2f893562fb07ea825da2ae82f6392893c
   languageName: node
   linkType: hard
 
 "undici-types@npm:~5.26.4":
   version: 5.26.5
   resolution: "undici-types@npm:5.26.5"
-  checksum: 0097779d94bc0fd26f0418b3a05472410408877279141ded2bd449167be1aed7ea5b76f756562cb3586a07f251b90799bab22d9019ceba49c037c76445f7cddd
+  checksum: 10/0097779d94bc0fd26f0418b3a05472410408877279141ded2bd449167be1aed7ea5b76f756562cb3586a07f251b90799bab22d9019ceba49c037c76445f7cddd
   languageName: node
   linkType: hard
