@@ -9,25 +9,25 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@teamexos/prince-backend@workspace:."
   dependencies:
-    "@types/node": "npm:20.11.1"
+    "@types/node": "npm:20.11.30"
     eslint-plugin-exos: "file:./eslint"
     graphql: "npm:16.8.1"
   languageName: unknown
   linkType: soft
 
-"@types/node@npm:20.11.1":
-  version: 20.11.1
-  resolution: "@types/node@npm:20.11.1"
+"@types/node@npm:20.11.30":
+  version: 20.11.30
+  resolution: "@types/node@npm:20.11.30"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 0b633e9f707167b4b61e472ddb93caca390714ef4f579d528eb5a8e4c621a5d267cc427dc5e01adc9a3ba87ec1e161a51d1bba716ae762c7a01648cbebab6bb5
+  checksum: 78515bc768d2b878e2e06a1c20eb4f5840072b79b8d28ff3dd0a7feaaf48fd3a2ac03cfa5bc7564da82db5906b43e9ba0e5df9f43d870b7aae2942306e208815
   languageName: node
   linkType: hard
 
 "eslint-plugin-exos@file:./eslint::locator=%40teamexos%2Fprince-backend%40workspace%3A.":
   version: 1.0.0
-  resolution: "eslint-plugin-exos@file:./eslint#./eslint::hash=ef1c99&locator=%40teamexos%2Fprince-backend%40workspace%3A."
-  checksum: 38cbf09d44d925756e9d691d49a8e138c5c33fb3de120d91dc6a4bd2ddf52206000eab69f1da3b234ab213dcd1d78889f1bc2d9383c3ef99158fd4786500c35d
+  resolution: "eslint-plugin-exos@file:./eslint#./eslint::hash=54d945&locator=%40teamexos%2Fprince-backend%40workspace%3A."
+  checksum: 94fc1376020bcd9a46ded02dc6d4aade96988fda15a82fa4964aed8aeeeee7d1f9318cdec12781f451cf16fb724ad6c3e7b7b76101a1f5533029e08d795c9b40
   languageName: node
   linkType: hard
 
